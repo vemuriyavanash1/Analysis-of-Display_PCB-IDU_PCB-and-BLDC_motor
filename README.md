@@ -1,8 +1,8 @@
-●	Analysed Display PCB and BLDC motor (Indoor Motor) driver for circuit-level faults and reliability issues.
+●	Analysed Display PCB, IDU PCB and BLDC motor (Indoor Motor) driver for circuit-level faults and reliability issues.
 
 ●	Conducted component validation by thermal stress testing, continuous operation,electrical stress, ESD, voltage fluctuations tests on samples to ensure part operation under adverse conditions.
 
-●	Implemented design modifications of increasing IGBT ratings to 1.5 times and changing the make of drivers and collaborated with suppliers for corrective hardware actions for manufacturing quality and field reliability.
+●	Implemented design modifications of increasing IGBT ratings to 1.5 times, increasing sensitivity of IR sesor in Display PCB for sensing issues and changing the make of drivers and collaborated with suppliers for corrective hardware actions for manufacturing quality and field reliability.
 
 ●	Assisted in improving efficiency and torque stability by control tuning and performance evaluation for BLDC motors. 
 
